@@ -19,7 +19,8 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  string = 'HELLO';
+  var shout = 'HELLO';
+  var whisper = 'hello';
 
   
   if(string != string){
