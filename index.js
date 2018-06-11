@@ -23,11 +23,11 @@ function sayHiToGrandma(string){
   var whisper = 'hello';
 
   
-  if(string != string){
+  if(string === whisper){
   return string.toLowerCase();
   }
   
-  else if(string === uppercase){
+  else if(string === shout){
     return string.toUpperCase();
     
   }
