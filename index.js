@@ -19,7 +19,7 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  var upperCase = 'HELLO'
+  string = 'HELLO';
 
   
   if(string === upperCase){
