@@ -22,11 +22,11 @@ function sayHiToGrandma(string){
   string = 'HELLO';
 
   
-  if(string === upperCase){
+  if(string){
   return string.toUpperCase();
   }
   
-  else if(string != upperCase){
+  else if(string){
     return string.toLowerCase();
     
   }
