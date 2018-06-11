@@ -22,8 +22,8 @@ function sayHiToGrandma(string){
   string = 'HELLO';
 
   
-  if(string){
-  return string.toUpperCase();
+  if(string ===){
+  return string.toLowerCase();
   }
   
   else if(string){
